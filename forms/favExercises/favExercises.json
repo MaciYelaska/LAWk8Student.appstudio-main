@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#ffffff",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -16,7 +16,34 @@
         "forms",
         "favExercises",
         "Elements",
-        "selExercises.json"
+        "SlctExercises.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "btnShowExercise.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "lblExercises.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "btnNav.json"
       ]
     }
   ],

@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#ffffff",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -17,6 +17,33 @@
         "describeYou",
         "Elements",
         "lblPrompt2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "rbtnType.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "lbl1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "btnExercise.json"
       ]
     }
   ],
